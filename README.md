@@ -35,7 +35,7 @@ Currently closed.
 
 
 
-Linux
+### Linux
 
   1. Download the HexamToolbox_Linux.sh file.
 
