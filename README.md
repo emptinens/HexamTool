@@ -30,23 +30,10 @@
 2. Run it as Administrator.
 
 ### macOS
-1. Install Homebrew (if not already installed):
-   ```bash
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Currently closed.
 
-2. Download the HexamToolbox_macOS.sh file.
 
-3. Make it executable:
-    bash
-    Copy
 
-    chmod +x HexamToolbox_macOS.sh
-
-4. Run the script:
-    bash
-    Copy
-
-    ./HexamToolbox_macOS.sh
 
 Linux
 
